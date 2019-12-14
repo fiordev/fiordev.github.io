@@ -5,12 +5,12 @@
 	<channel>
 		<title>Fior Print</title>
 		<description>The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.</description>
-		<link>http://localhost:4000/</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>https://fiordev.github.io//</link>
+		<atom:link href="https://fiordev.github.io//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Signage</title>
-				<link>http://localhost:4000/products/signage/</link>
+				<link>https://fiordev.github.io//products/signage/</link>
 				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
 				<description>&lt;ul&gt;
   &lt;li&gt;Flags&lt;/li&gt;
@@ -20,12 +20,12 @@
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/products/signage/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//products/signage/</guid>
 			</item>
 		
 			<item>
 				<title>Promotional</title>
-				<link>http://localhost:4000/products/promotional/</link>
+				<link>https://fiordev.github.io//products/promotional/</link>
 				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
 				<description>&lt;ul&gt;
   &lt;li&gt;Pens&lt;/li&gt;
@@ -36,12 +36,12 @@
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/products/promotional/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//products/promotional/</guid>
 			</item>
 		
 			<item>
 				<title>Digital</title>
-				<link>http://localhost:4000/products/digital/</link>
+				<link>https://fiordev.github.io//products/digital/</link>
 				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
 				<description>&lt;ul&gt;
   &lt;li&gt;Business Cards&lt;/li&gt;
@@ -53,12 +53,12 @@
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/products/digital/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//products/digital/</guid>
 			</item>
 		
 			<item>
 				<title>Apparel</title>
-				<link>http://localhost:4000/products/apparel/</link>
+				<link>https://fiordev.github.io//products/apparel/</link>
 				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
 				<description>&lt;ul&gt;
   &lt;li&gt;Tees&lt;/li&gt;
@@ -68,20 +68,20 @@
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/products/apparel/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//products/apparel/</guid>
 			</item>
 		
 			<item>
 				<title>What We Do</title>
-				<link>http://localhost:4000/aboutus/whatwedo/</link>
+				<link>https://fiordev.github.io//aboutus/whatwedo/</link>
 				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://localhost:4000/aboutus/whatwedo/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//aboutus/whatwedo/</guid>
 			</item>
 		
 			<item>
 				<title>Who We Are</title>
-				<link>http://localhost:4000/aboutus/whoweare/</link>
+				<link>https://fiordev.github.io//aboutus/whoweare/</link>
 				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
 				<description>&lt;div class=&quot;show-for-large-up&quot;&gt;
     &lt;div class=&quot;row&quot;&gt;
@@ -137,41 +137,39 @@ doing freelance design. I now join the Fior team as a graphic designer and am ex
 &lt;/div&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/aboutus/whoweare/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//aboutus/whoweare/</guid>
 			</item>
 		
 			<item>
-				<title></title>
-				<link>http://localhost:4000/video/</link>
-				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">http://localhost:4000/video/</guid>
-			</item>
-		
-			<item>
-				<title></title>
-				<link>http://localhost:4000/post_without_image/</link>
-				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
+				<title>You can delete this file</title>
+				<link>https://fiordev.github.io//dummy/dummy-delete-me/</link>
+				<pubDate>Thu, 15 Oct 2015 00:00:00 +1300</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://localhost:4000/post_without_image/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//dummy/dummy-delete-me/</guid>
 			</item>
 		
 			<item>
-				<title></title>
-				<link>http://localhost:4000/post_with_image/</link>
-				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
+				<title>You can delete this file</title>
+				<link>https://fiordev.github.io//dummy/dummy-delete-me-copy-4/</link>
+				<pubDate>Tue, 13 Oct 2015 00:00:00 +1300</pubDate>
 				<description></description>
-				<guid isPermaLink="true">http://localhost:4000/post_with_image/</guid>
+				<guid isPermaLink="true">https://fiordev.github.io//dummy/dummy-delete-me-copy-4/</guid>
 			</item>
 		
 			<item>
-				<title></title>
-				<link>http://localhost:4000/page_without_image/</link>
-				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
-				<description>
-</description>
-				<guid isPermaLink="true">http://localhost:4000/page_without_image/</guid>
+				<title>You can delete this file</title>
+				<link>https://fiordev.github.io//dummy/dummy-delete-me-copy-5/</link>
+				<pubDate>Mon, 12 Oct 2015 00:00:00 +1300</pubDate>
+				<description></description>
+				<guid isPermaLink="true">https://fiordev.github.io//dummy/dummy-delete-me-copy-5/</guid>
+			</item>
+		
+			<item>
+				<title>You can delete this file</title>
+				<link>https://fiordev.github.io//dummy/dummy-delete-me-copy-3/</link>
+				<pubDate>Sun, 11 Oct 2015 00:00:00 +1300</pubDate>
+				<description></description>
+				<guid isPermaLink="true">https://fiordev.github.io//dummy/dummy-delete-me-copy-3/</guid>
 			</item>
 		
 	</channel>
