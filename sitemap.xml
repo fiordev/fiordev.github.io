@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- Pages: 26 links with priority=0.3, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/404.html</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/pages/aboutus/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/archive/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/atom.xml</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/contact/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/feed.xml</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/humans.txt</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/info/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/products/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/redirect-page/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/robots.txt</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/search/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/sitemap.xml</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/testimonials/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page2/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page3/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/blog/page4/</loc>
+	
+		<lastmod>2019-12-14T16:08:09+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+
+<!-- Posts: 20 links with priority=0.5, changefreq=monthly -->
+
+	
+	<url>
+	<loc>http://localhost:4000/products/signage/</loc>
+	
+		<lastmod>2019-12-14T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/products/promotional/</loc>
+	
+		<lastmod>2019-12-14T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/products/digital/</loc>
+	
+		<lastmod>2019-12-14T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/products/apparel/</loc>
+	
+		<lastmod>2019-12-14T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/aboutus/whatwedo/</loc>
+	
+		<lastmod>2019-12-14T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/aboutus/whoweare/</loc>
+	
+		<lastmod>2019-12-14T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/video/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/post_without_image/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/post_with_image/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/page_without_image/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/page_with_table_of_contents/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/page_with_image/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/page_simple/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/page_all_frontmatter/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/gallery/</loc>
+	
+		<lastmod>2017-10-18T00:37:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/dummy/dummy-delete-me/</loc>
+	
+		<lastmod>2015-10-15T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/dummy/dummy-delete-me-copy-4/</loc>
+	
+		<lastmod>2015-10-13T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/dummy/dummy-delete-me-copy-5/</loc>
+	
+		<lastmod>2015-10-12T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/dummy/dummy-delete-me-copy-3/</loc>
+	
+		<lastmod>2015-10-11T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/dummy/dummy-delete-me-copy-2/</loc>
+	
+		<lastmod>2015-10-10T00:00:00+13:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.5</priority>
+	
+	</url>
+	
+
+
+</urlset>

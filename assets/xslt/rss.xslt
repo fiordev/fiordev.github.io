@@ -167,28 +167,6 @@
 
           
           
-            
-            
-              <li class="divider"></li>
-              <li><a href="http://localhost:4000/info/">Info</a></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-            
-            
-              <li class="divider"></li>
-              <li><a href="http://localhost:4000/search/">Search</a></li>
-
-            
-            
-          
         
 
               
@@ -241,17 +219,32 @@
 
                       
 
-                      <li><a href="http://localhost:4000#">What We Do</a></li>
+                      <li><a href="http://localhost:4000/aboutus/whatwedo/">What We Do</a></li>
                     
 
                       
 
-                      <li><a href="http://localhost:4000#">Who We Are</a></li>
+                      <li><a href="http://localhost:4000/aboutus/whoweare/">Who We Are</a></li>
                     
                   </ul>
                   
               </li>
               <li class="divider"></li>
+            
+          
+        
+
+              
+
+          
+          
+
+            
+            
+              <li><a href="http://localhost:4000/testimonials/">Testimonials</a></li>
+              <li class="divider"></li>
+
+            
             
           
         
@@ -265,32 +258,35 @@
             
 
               <li class="has-dropdown">
-                <a href="http://localhost:4000/blog/">Blog</a>
+                <a href="http://localhost:4000/products/">Offerings</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a href="http://localhost:4000/blog/archive/">Blog Archive</a></li>
+                      <li><a href="http://localhost:4000/products/promotional/">Promotional</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/products/digital/">Digital</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/products/signage/">Signage</a></li>
+                    
+
+                      
+
+                      <li><a href="http://localhost:4000/products/apparel/">Apparel</a></li>
                     
                   </ul>
                   
               </li>
               <li class="divider"></li>
             
-          
-        
-
-              
-
-          
-          
-        
-
-              
-
-          
           
         
 

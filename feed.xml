@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Fior Print</title>
+		<description>The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.</description>
+		<link>http://localhost:4000/</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Signage</title>
+				<link>http://localhost:4000/products/signage/</link>
+				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
+				<description>&lt;ul&gt;
+  &lt;li&gt;Flags&lt;/li&gt;
+  &lt;li&gt;Banners&lt;/li&gt;
+  &lt;li&gt;Large Format Posters&lt;/li&gt;
+  &lt;li&gt;Corflute/ACM/ECO Board&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/products/signage/</guid>
+			</item>
+		
+			<item>
+				<title>Promotional</title>
+				<link>http://localhost:4000/products/promotional/</link>
+				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
+				<description>&lt;ul&gt;
+  &lt;li&gt;Pens&lt;/li&gt;
+  &lt;li&gt;Cups&lt;/li&gt;
+  &lt;li&gt;Mugs&lt;/li&gt;
+  &lt;li&gt;Corporate Gifts&lt;/li&gt;
+  &lt;li&gt;Expo Giveaways&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/products/promotional/</guid>
+			</item>
+		
+			<item>
+				<title>Digital</title>
+				<link>http://localhost:4000/products/digital/</link>
+				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
+				<description>&lt;ul&gt;
+  &lt;li&gt;Business Cards&lt;/li&gt;
+  &lt;li&gt;Brochures&lt;/li&gt;
+  &lt;li&gt;DLEs&lt;/li&gt;
+  &lt;li&gt;Flyers&lt;/li&gt;
+  &lt;li&gt;Books&lt;/li&gt;
+  &lt;li&gt;Calendars&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/products/digital/</guid>
+			</item>
+		
+			<item>
+				<title>Apparel</title>
+				<link>http://localhost:4000/products/apparel/</link>
+				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
+				<description>&lt;ul&gt;
+  &lt;li&gt;Tees&lt;/li&gt;
+  &lt;li&gt;Hats&lt;/li&gt;
+  &lt;li&gt;Sports Gear&lt;/li&gt;
+  &lt;li&gt;etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/products/apparel/</guid>
+			</item>
+		
+			<item>
+				<title>What We Do</title>
+				<link>http://localhost:4000/aboutus/whatwedo/</link>
+				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/aboutus/whatwedo/</guid>
+			</item>
+		
+			<item>
+				<title>Who We Are</title>
+				<link>http://localhost:4000/aboutus/whoweare/</link>
+				<pubDate>Sat, 14 Dec 2019 00:00:00 +1300</pubDate>
+				<description>&lt;div class=&quot;show-for-large-up&quot;&gt;
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;small-12 columns&quot;&gt;
+            &lt;h2&gt;Alva&lt;/h2&gt;
+        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-6 columns&quot;&gt;
+          &lt;img src=&quot;/images/alva470.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;large-6 columns&quot;&gt;
+      Having been in New Zealand for nearly 20 years , now it is truly my home . I have experience in media, branding and marketing and my true passion lies in helping businesses by saving time!!
+I know what a precious commodity it is.
+Please treat me as you point of call for everything to do with your brand that is what I do best and I will make sure it is right .
+So if you need branding, with business cards, brochures, signage, apparel orl promotional products , just call, FIOR will sort it!
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;small-12 columns&quot;&gt;
+            &lt;h2&gt;Jade&lt;/h2&gt;
+        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;large-6 columns&quot;&gt;
+    In a previous life a Hairdresser, Sales Acc Manager and then Flight Attendant.
+Recently nearly completed my Bachelors Degree in Toddler Taming with
+Twin 3 year old Girls.
+Now thoroughly enjoying my Admin/Support Role in the wonderful Fior Print Team.
+    &lt;/div&gt;
+      &lt;div class=&quot;large-6 columns&quot;&gt;
+          &lt;img src=&quot;/images/jade470.jpg&quot; /&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;row&quot;&gt;
+        &lt;div class=&quot;small-12 columns&quot;&gt;
+            &lt;h2&gt;Beth&lt;/h2&gt;
+        &lt;/div&gt;&lt;!-- /.small-12.columns --&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;row&quot;&gt;
+      &lt;div class=&quot;large-6 columns&quot;&gt;
+          &lt;img src=&quot;/images/beth470.jpg&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;large-6 columns&quot;&gt;
+      After Graduating from Design &amp;amp; Arts College of New Zealand (D&amp;amp;A) with a Diploma of Communication Arts and Design, I spent a year and a half 
+doing freelance design. I now join the Fior team as a graphic designer and am excited to be in this role. My other interests when I am not designing are dance, photography and sewing.
+
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+&lt;/div&gt;
+
+</description>
+				<guid isPermaLink="true">http://localhost:4000/aboutus/whoweare/</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<link>http://localhost:4000/video/</link>
+				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/video/</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<link>http://localhost:4000/post_without_image/</link>
+				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/post_without_image/</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<link>http://localhost:4000/post_with_image/</link>
+				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
+				<description></description>
+				<guid isPermaLink="true">http://localhost:4000/post_with_image/</guid>
+			</item>
+		
+			<item>
+				<title></title>
+				<link>http://localhost:4000/page_without_image/</link>
+				<pubDate>Wed, 18 Oct 2017 00:37:00 +1300</pubDate>
+				<description>
+</description>
+				<guid isPermaLink="true">http://localhost:4000/page_without_image/</guid>
+			</item>
+		
+	</channel>
+</rss>
